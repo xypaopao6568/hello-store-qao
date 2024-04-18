@@ -71,7 +71,7 @@
                     </div>
                     <div class="featured__controls">
                         <ul>
-                            <li class="active" data-filter="*">All</li>
+                            <li class="active" data-filter="*">Tất cả</li>
                             @if (isset($categories))
                                 @foreach ($categories as $item)
                                     <li data-filter=".{{ $item->slug }}">{{ $item->name }}</li>

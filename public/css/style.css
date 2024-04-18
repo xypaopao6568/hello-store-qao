@@ -168,13 +168,13 @@ ol {
     color: #ffffff;
     text-transform: uppercase;
     font-weight: 700;
-    background: -webkit-linear-gradient(35deg, #de2d13 0%, #f0860d 100%);
+    background: blue;
     letter-spacing: 2px;
     transition: all 0.5s;
 }
 .primary-btn:hover,
 .site-btn:hover {
-    background: #5a7e25;
+    background: #254c7e;
 }
 
 .site-btn {

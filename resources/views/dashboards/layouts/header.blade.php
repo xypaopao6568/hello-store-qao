@@ -2,8 +2,8 @@
     <div class="m-header">
         <a class="mobile-menu" id="mobile-collapse" href="javascript:void(0)"><span></span></a>
         <a href="javascript:void(0)" class="b-brand">
-            <img src="{{ url('logo-light.png') }}" alt="" class="logo">
-            <img src="{{ url('logo-light.png') }}" alt="" class="logo-thumb">
+            <img src="{{ url('/images/hello_hello.jpg') }}" style ="width: 100px; height: 50px "  alt="" class="logo">
+            <img src="{{ url('/images/hello_hello.jpg') }}" style ="width: 100px; height: 50px " alt="" class="logo-thumb">
         </a>
         <a href="javascript:void(0)" class="mob-toggler">
             <i class="feather icon-more-vertical"></i>

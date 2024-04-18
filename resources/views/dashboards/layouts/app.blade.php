@@ -10,7 +10,7 @@
     <meta name="description" content="" />
     <meta name="keywords" content="">
     <meta name="csrf-token" content="{{ csrf_token() }}" />
-    <link rel="icon" href="{{ url('lg.png') }}" type="image/x-icon">
+    <!-- <link rel="icon" href="{{ url('lg.png') }}" type="image/x-icon"> -->
     <link rel="stylesheet" href="{{ url('admin/css/style.css') }}">
     <link rel="stylesheet" href="{{ url('fontawesome/css/all.min.css') }}">
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css" rel="stylesheet" />

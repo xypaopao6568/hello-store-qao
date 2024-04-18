@@ -1,7 +1,7 @@
 <div class="humberger__menu__overlay"></div>
 <div class="humberger__menu__wrapper">
     <div class="humberger__menu__logo">
-        <a href="#"><img src="{{ url('images/logo.png') }}" alt="" style="max-height: 60px"></a>
+        <a href="#"><img src="{{ url('images/hello_hello.jpg') }}" alt="" style="max-height: 60px"></a>
     </div>
     <div class="humberger__menu__cart">
         <ul>
@@ -108,8 +108,8 @@
     </div>
     <div class="humberger__menu__contact">
         <ul>
-            <li><i class="fa fa-envelope"></i> hotro@winshop.site</li>
-            <li>Free ship cho đơn hàng từ 500.000 đồng</li>
+            <li><i class="fa fa-envelope"></i> hellostore_1125@gmail.com</li>
+            <li>Free ship cho đơn hàng từ 300.000 đồng trở lên</li>
         </ul>
     </div>
 </div>
@@ -120,8 +120,8 @@
                 <div class="col-lg-6 col-md-6">
                     <div class="header__top__left">
                         <ul>
-                            <li><i class="fa fa-envelope"></i> hotro@winshop.site</li>
-                            <li>Free ship cho đơn hàng từ 500.000 đồng</li>
+                            <li><i class="fa fa-envelope"></i> hellostore_1125@gmail.com</li>
+                            <li>Free ship cho đơn hàng từ 300.000 đồng</li>
                         </ul>
                     </div>
                 </div>
@@ -226,7 +226,7 @@
             <div class="row">
                 <div class="col-lg-3">
                     <div class="header__logo">
-                        <a href="{{ route('home') }}"><img src="{{ url('images/logo.png') }}" alt=""
+                        <a href="{{ route('home') }}"><img src="{{ url('images/hello_hello.jpg') }}" alt=""
                                 style="max-height: 60px"></a>
                     </div>
                 </div>
@@ -234,7 +234,7 @@
                     <nav class="header__menu">
                         <ul>
                             <li class="active"><a href="{{ route('home') }}">Trang Chủ</a></li>
-                            <li><a href="{{ route('shop') }}">Mua Sắm</a></li>
+                            <li><a href="{{ route('shop') }}">Sản phẩm</a></li>
                             <li><a href="{{ route('contact') }}">Liên Hệ</a></li>
                         </ul>
                     </nav>

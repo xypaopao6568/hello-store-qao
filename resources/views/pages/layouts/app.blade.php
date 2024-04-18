@@ -10,7 +10,7 @@
     <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>@yield('title')</title>
-    <link rel="icon" href="{{ url('lg.png') }}" type="image/x-icon">
+    
     <!-- Google Font -->
     <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@200;300;400;600;900&display=swap" rel="stylesheet">
 
@@ -40,7 +40,7 @@
     {{--    <div id="preloder"> --}}
     {{--        <div class="loader"> --}}
     {{--            <div class="header__logo"> --}}
-    {{--                <a href="{{ route('home') }}"><img src="{{ url('lg.png') }}" alt=""></a> --}}
+    {{--                <a href="{{ route('home') }}"><img src="{{ url('') }}" alt=""></a> --}}
     {{--            </div> --}}
     {{--        </div> --}}
     {{--    </div> --}}
@@ -71,7 +71,7 @@
     {{--        <div class="ws-container"> --}}
     {{--            <div class="loader"> --}}
     {{--                <div class="header__logo"> --}}
-    {{--                    <a href="{{ route('home') }}"><img src="{{ url('lg.png') }}" alt=""></a> --}}
+    <!-- {{--                    <a href="{{ route('home') }}"><img src="{{ url('lg.png') }}" alt=""></a> --}} -->
     {{--                </div> --}}
     {{--            </div> --}}
     {{--        </div> --}}

@@ -4,13 +4,13 @@
             <div class="col-lg-4 col-md-6 col-sm-6">
                 <div class="footer__about">
                     <div class="footer__about__logo">
-                        <a href="{{ route('home') }}"><img src="{{ url('images/logo.png') }}" alt=""></a>
+                        <a href="{{ route('home') }}"><img src="{{ url('images/hello_hello.jpg') }}" alt=""></a>
                     </div>
                     <ul>
-                        <li><i class="fa-2x fa fa-map-marker mr-2"></i>Địa Chỉ: <b>Nam Sơn - Linh Sơn - Thái Nguyên</b>
+                        <li><i class="fa-2x fa fa-map-marker mr-2"></i>Địa Chỉ: <b>Số nhà 13A, đường Bắc Sơn, thành phố Thái Nguyên</b>
                         </li>
-                        <li><i class="fa-2x fa fa-mobile-phone mr-2"></i>Phone: <b>+84389898989</b></li>
-                        <li><i class="fa fa-envelope mr-2"></i>Email: <b>support@winshop.vn</b></li>
+                        <li><i class="fa-2x fa fa-mobile-phone mr-2"></i>Số điện thoại: <b>0123456789</b></li>
+                        <li><i class="fa fa-envelope mr-2"></i>Email: <b>hellostore_1125@gmail.com</b></li>
                     </ul>
                 </div>
             </div>
@@ -22,11 +22,11 @@
                         nonce="VtqIQMSR"></script>
                     <h6 style="color: -webkit-linear-gradient(35deg, #de2d13 0%, #f0860d 100%);"><i
                             class="fa fa-facebook-square fa-2x mr-2"></i> FACEBOOK PAGE</h6>
-                    <div class="fb-page" data-href="https://www.facebook.com/WinShopsVN" data-tabs="" data-width=""
+                    <div class="fb-page" data-href="" data-tabs="" data-width=""
                         data-height="" data-small-header="false" data-adapt-container-width="true"
                         data-hide-cover="false" data-show-facepile="true">
                         <blockquote cite="https://www.facebook.com/WinShopsVN" class="fb-xfbml-parse-ignore">
-                            <a href="https://www.facebook.com/WinShopsVN">WIN SHOP</a>
+                            <a href="https://www.facebook.com/WinShopsVN">Hello Store</a>
                         </blockquote>
                     </div>
                 </div>
@@ -34,7 +34,7 @@
             <div class="col-lg-4 col-md-12">
                 <div class="footer__widget">
                     <h6 style="color: -webkit-linear-gradient(35deg, #de2d13 0%, #f0860d 100%);"><i
-                            class="fa fa-envelope fa-2x mr-2"></i>Nhận thông tin khuyến mãi từ <b>WINSHOP</b></h6>
+                            class="fa fa-envelope fa-2x mr-2"></i>Nhận khuyến mãi từ <b>Hello Store</b></h6>
                     <form action="#">
                         <input type="text" placeholder="Nhập email">
                         <button type="submit" class="site-btn">ĐĂNG KÝ</button>
