@@ -1,7 +1,7 @@
 <div class="humberger__menu__overlay"></div>
 <div class="humberger__menu__wrapper">
     <div class="humberger__menu__logo">
-        <a href="#"><img src="{{ url('images/hello_hello.jpg') }}" alt="" style="max-height: 60px"></a>
+        <a href="#"><img src="{{ url('images/be.png') }}" alt="" style="max-height: 60px"></a>
     </div>
     <div class="humberger__menu__cart">
         <ul>
@@ -226,7 +226,7 @@
             <div class="row">
                 <div class="col-lg-3">
                     <div class="header__logo">
-                        <a href="{{ route('home') }}"><img src="{{ url('images/hello_hello.jpg') }}" alt=""
+                        <a href="{{ route('home') }}"><img src="{{ url('images/be.png') }}" alt=""
                                 style="max-height: 60px"></a>
                     </div>
                 </div>

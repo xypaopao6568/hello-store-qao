@@ -4,7 +4,7 @@
             <div class="col-lg-4 col-md-6 col-sm-6">
                 <div class="footer__about">
                     <div class="footer__about__logo">
-                        <a href="{{ route('home') }}"><img src="{{ url('images/hello_hello.jpg') }}" alt=""></a>
+                        <a href="{{ route('home') }}"><img src="{{ url('images/be.png') }}" alt=""></a>
                     </div>
                     <ul>
                         <li><i class="fa-2x fa fa-map-marker mr-2"></i>Địa Chỉ: <b>Số nhà 13A, đường Bắc Sơn, thành phố Thái Nguyên</b>
