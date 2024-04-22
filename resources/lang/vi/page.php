@@ -29,8 +29,8 @@ return [
     'select_your_address' => 'Chọn địa chỉ của bạn',
     'your_order' => 'Chi tiêt đơn hàng',
     'select_payment' => 'Phương thức thanh toán',
-    'vnpay' => 'VN Pay',
-    'cod' => 'Thanh toán khi nhận hàng',
+    'vnpay' => 'QR Code của cừa hàng đang lỗi, mong khách thông cảm',
+    'cod' => 'COD',
 
     //Trạng thái đơn hàng
     'add_to_cart' => 'Thêm Vào Giỏ',

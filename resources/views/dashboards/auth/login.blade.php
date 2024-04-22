@@ -25,7 +25,7 @@
                     <div class="card-body">
                         <form action="{{ route('dashboards-login') }}" method="post">
                             @csrf
-                            <img src="{{ url('logo.png') }}" alt="" class="img-fluid mb-4">
+                            <img src="{{ url('be.png') }}" alt="" class="img-fluid mb-4">
                             <h4 class="mb-3 f-w-400">Đăng Nhập</h4>
                             @if ($errors->all())
                                 <div class="col-md-12 mb-2">
