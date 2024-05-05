@@ -10,7 +10,7 @@
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <div class="breadcrumb__text">
-                        <h2>Contact Us With Winshop</h2>
+                        <h2>Contact Usp</h2>
                         <div class="breadcrumb__option">
                             <a href="./index.html">Home</a>
                             <span>Contact Us</span>
@@ -51,7 +51,7 @@
                     <div class="contact__widget">
                         <span class="icon_mail_alt"></span>
                         <h4>Email</h4>
-                        <p>support@winshop.vn</p>
+                        <p></p>
                     </div>
                 </div>
             </div>

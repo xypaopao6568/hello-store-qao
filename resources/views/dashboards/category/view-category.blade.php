@@ -62,7 +62,7 @@
             </table>
         </div>
         <div class="modal-footer d-flex justify-content-center p-2">
-            <a href="{{ route('category') }}" class="btn  btn-primary">Qoay lại trang chủ</a>
+            <a href="{{ route('category') }}" class="btn  btn-primary">Quay lại trang chủ</a>
         </div>
     </div>
 

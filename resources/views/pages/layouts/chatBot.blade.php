@@ -72,7 +72,7 @@
             <div class="chat-start">Monday, 1:27 PM</div>
             <div class="chat-box chat-bubble me">
                 <div class="message">
-                    <strong>Winshop:</strong> Chào bạn! Tôi có thể giúp gì cho bạn hôm nay?
+                    <strong>Hello Store:</strong> Chào bạn! Tôi có thể giúp gì cho bạn hôm nay?
                 </div>
             </div>
         </div>
